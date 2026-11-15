@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋I’m Daniel N Hansen<br>🌱 I’m currently a fifth year computer science student at NTNU with a specialization in AI<br>🧠 I'm currently part of the NTNU Cogito student organization where I'm co-leading the GeoGuesserAI team, and part of the web-dev team, as well as previous semesters being active also🧑‍💻
+👋I’m Daniel N Hansen<br>🌱 I’m currently a software developer @ Sopra Steria. 
+Finished a Computer Science degree at NTNU with a specialization in AI<br>🧠
+Actively learning, training and cooking👨‍🍳
 
 
 # 💻 Tech Stack:
